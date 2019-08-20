@@ -1,0 +1,487 @@
+pais,pais_en,ano,matricula
+Argentina,Argentina,2000,78.97
+Argentina,Argentina,2001,79.45
+Argentina,Argentina,2002,79.36
+Argentina,Argentina,2003,79.17
+Argentina,Argentina,2004,79.36
+Argentina,Argentina,2005,78.98
+Argentina,Argentina,2006,79.11
+Argentina,Argentina,2007,79.2
+Argentina,Argentina,2008,80.35
+Argentina,Argentina,2009,82.41
+Argentina,Argentina,2010,84
+Argentina,Argentina,2011,85.22
+Argentina,Argentina,2012,87.32
+Argentina,Argentina,2013,88.16
+Argentina,Argentina,2014,88.25
+Argentina,Argentina,2015,88.55
+Argentina,Argentina,2016,89.51
+Argentina,Argentina,2017,NA
+Bahamas,Bahamas,2000,NA
+Bahamas,Bahamas,2001,NA
+Bahamas,Bahamas,2002,NA
+Bahamas,Bahamas,2003,NA
+Bahamas,Bahamas,2004,79.62
+Bahamas,Bahamas,2005,82.9
+Bahamas,Bahamas,2006,84.92
+Bahamas,Bahamas,2007,87.28
+Bahamas,Bahamas,2008,86.14
+Bahamas,Bahamas,2009,84.02
+Bahamas,Bahamas,2010,82.69
+Bahamas,Bahamas,2011,NA
+Bahamas,Bahamas,2012,NA
+Bahamas,Bahamas,2013,NA
+Bahamas,Bahamas,2014,NA
+Bahamas,Bahamas,2015,NA
+Bahamas,Bahamas,2016,82.1
+Bahamas,Bahamas,2017,NA
+Barbados,Barbados,2000,91.9
+Barbados,Barbados,2001,86.52
+Barbados,Barbados,2002,87.65
+Barbados,Barbados,2003,89.51
+Barbados,Barbados,2004,93.07
+Barbados,Barbados,2005,92.21
+Barbados,Barbados,2006,91.75
+Barbados,Barbados,2007,92.13
+Barbados,Barbados,2008,88.23
+Barbados,Barbados,2009,84.41
+Barbados,Barbados,2010,85.18
+Barbados,Barbados,2011,88.82
+Barbados,Barbados,2012,NA
+Barbados,Barbados,2013,NA
+Barbados,Barbados,2014,99.44
+Barbados,Barbados,2015,98.63
+Barbados,Barbados,2016,96.46
+Barbados,Barbados,2017,96.17
+Belice,Belice,2000,58.58
+Belice,Belice,2001,60.15
+Belice,Belice,2002,NA
+Belice,Belice,2003,68.08
+Belice,Belice,2004,NA
+Belice,Belice,2005,65.05
+Belice,Belice,2006,64.78
+Belice,Belice,2007,64.22
+Belice,Belice,2008,63.42
+Belice,Belice,2009,63.75
+Belice,Belice,2010,63.69
+Belice,Belice,2011,65.41
+Belice,Belice,2012,67.51
+Belice,Belice,2013,69.21
+Belice,Belice,2014,69.33
+Belice,Belice,2015,69.52
+Belice,Belice,2016,72.22
+Belice,Belice,2017,70.47
+Bolivia,Bolivia,2000,60.82
+Bolivia,Bolivia,2001,63.97
+Bolivia,Bolivia,2002,68.64
+Bolivia,Bolivia,2003,71.53
+Bolivia,Bolivia,2004,73.91
+Bolivia,Bolivia,2005,74.66
+Bolivia,Bolivia,2006,74.25
+Bolivia,Bolivia,2007,73.53
+Bolivia,Bolivia,2008,72.58
+Bolivia,Bolivia,2009,73.29
+Bolivia,Bolivia,2010,73.2
+Bolivia,Bolivia,2011,72.79
+Bolivia,Bolivia,2012,74.01
+Bolivia,Bolivia,2013,75.73
+Bolivia,Bolivia,2014,76.54
+Bolivia,Bolivia,2015,77.58
+Bolivia,Bolivia,2016,77.99
+Bolivia,Bolivia,2017,77.62
+Brasil,Brazil,2000,NA
+Brasil,Brazil,2001,NA
+Brasil,Brazil,2002,NA
+Brasil,Brazil,2003,NA
+Brasil,Brazil,2004,NA
+Brasil,Brazil,2005,NA
+Brasil,Brazil,2006,NA
+Brasil,Brazil,2007,73.18
+Brasil,Brazil,2008,NA
+Brasil,Brazil,2009,78.8
+Brasil,Brazil,2010,NA
+Brasil,Brazil,2011,77.96
+Brasil,Brazil,2012,76.4
+Brasil,Brazil,2013,82.05
+Brasil,Brazil,2014,81.92
+Brasil,Brazil,2015,81.69
+Brasil,Brazil,2016,82.33
+Brasil,Brazil,2017,NA
+Chile,Chile,2000,NA
+Chile,Chile,2001,NA
+Chile,Chile,2002,NA
+Chile,Chile,2003,NA
+Chile,Chile,2004,NA
+Chile,Chile,2005,NA
+Chile,Chile,2006,NA
+Chile,Chile,2007,89.94
+Chile,Chile,2008,89.13
+Chile,Chile,2009,86.74
+Chile,Chile,2010,87.43
+Chile,Chile,2011,86.93
+Chile,Chile,2012,85.19
+Chile,Chile,2013,87.5
+Chile,Chile,2014,87.43
+Chile,Chile,2015,87.31
+Chile,Chile,2016,87.09
+Chile,Chile,2017,NA
+Colombia,Colombia,2000,NA
+Colombia,Colombia,2001,NA
+Colombia,Colombia,2002,NA
+Colombia,Colombia,2003,NA
+Colombia,Colombia,2004,NA
+Colombia,Colombia,2005,64.07
+Colombia,Colombia,2006,68.91
+Colombia,Colombia,2007,72.3
+Colombia,Colombia,2008,73.9
+Colombia,Colombia,2009,77.22
+Colombia,Colombia,2010,78.76
+Colombia,Colombia,2011,80.94
+Colombia,Colombia,2012,79.19
+Colombia,Colombia,2013,79.64
+Colombia,Colombia,2014,78.59
+Colombia,Colombia,2015,78.29
+Colombia,Colombia,2016,78.71
+Colombia,Colombia,2017,78.85
+Costa Rica,Costa Rica,2000,NA
+Costa Rica,Costa Rica,2001,NA
+Costa Rica,Costa Rica,2002,NA
+Costa Rica,Costa Rica,2003,NA
+Costa Rica,Costa Rica,2004,NA
+Costa Rica,Costa Rica,2005,NA
+Costa Rica,Costa Rica,2006,NA
+Costa Rica,Costa Rica,2007,NA
+Costa Rica,Costa Rica,2008,NA
+Costa Rica,Costa Rica,2009,NA
+Costa Rica,Costa Rica,2010,NA
+Costa Rica,Costa Rica,2011,75.86
+Costa Rica,Costa Rica,2012,75.97
+Costa Rica,Costa Rica,2013,77.12
+Costa Rica,Costa Rica,2014,78.12
+Costa Rica,Costa Rica,2015,80.52
+Costa Rica,Costa Rica,2016,82.74
+Costa Rica,Costa Rica,2017,NA
+Cuba,Cuba,2000,80.86
+Cuba,Cuba,2001,82.75
+Cuba,Cuba,2002,83.05
+Cuba,Cuba,2003,85.39
+Cuba,Cuba,2004,85.03
+Cuba,Cuba,2005,85.94
+Cuba,Cuba,2006,87.03
+Cuba,Cuba,2007,86.31
+Cuba,Cuba,2008,85.45
+Cuba,Cuba,2009,83.98
+Cuba,Cuba,2010,87.18
+Cuba,Cuba,2011,87.85
+Cuba,Cuba,2012,87.26
+Cuba,Cuba,2013,88.5
+Cuba,Cuba,2014,86.9
+Cuba,Cuba,2015,85.69
+Cuba,Cuba,2016,86.62
+Cuba,Cuba,2017,86.67
+Ecuador,Ecuador,2000,47.88
+Ecuador,Ecuador,2001,48.59
+Ecuador,Ecuador,2002,49.89
+Ecuador,Ecuador,2003,49.83
+Ecuador,Ecuador,2004,50.6
+Ecuador,Ecuador,2005,52.98
+Ecuador,Ecuador,2006,54.43
+Ecuador,Ecuador,2007,56.07
+Ecuador,Ecuador,2008,NA
+Ecuador,Ecuador,2009,NA
+Ecuador,Ecuador,2010,73.15
+Ecuador,Ecuador,2011,75.85
+Ecuador,Ecuador,2012,79
+Ecuador,Ecuador,2013,81.82
+Ecuador,Ecuador,2014,83.01
+Ecuador,Ecuador,2015,85.42
+Ecuador,Ecuador,2016,87.16
+Ecuador,Ecuador,2017,88.25
+El Salvador,El Salvador,2000,48.16
+El Salvador,El Salvador,2001,49.63
+El Salvador,El Salvador,2002,53.45
+El Salvador,El Salvador,2003,NA
+El Salvador,El Salvador,2004,NA
+El Salvador,El Salvador,2005,57.61
+El Salvador,El Salvador,2006,56.5
+El Salvador,El Salvador,2007,56.63
+El Salvador,El Salvador,2008,57.48
+El Salvador,El Salvador,2009,59.02
+El Salvador,El Salvador,2010,61.48
+El Salvador,El Salvador,2011,63.75
+El Salvador,El Salvador,2012,65.59
+El Salvador,El Salvador,2013,67.32
+El Salvador,El Salvador,2014,66.81
+El Salvador,El Salvador,2015,65.46
+El Salvador,El Salvador,2016,64.26
+El Salvador,El Salvador,2017,60.45
+Guatemala,Guatemala,2000,25.54
+Guatemala,Guatemala,2001,28.99
+Guatemala,Guatemala,2002,29.58
+Guatemala,Guatemala,2003,NA
+Guatemala,Guatemala,2004,NA
+Guatemala,Guatemala,2005,NA
+Guatemala,Guatemala,2006,NA
+Guatemala,Guatemala,2007,NA
+Guatemala,Guatemala,2008,38.13
+Guatemala,Guatemala,2009,40.21
+Guatemala,Guatemala,2010,44.4
+Guatemala,Guatemala,2011,44.73
+Guatemala,Guatemala,2012,45.34
+Guatemala,Guatemala,2013,45.61
+Guatemala,Guatemala,2014,46.02
+Guatemala,Guatemala,2015,47.33
+Guatemala,Guatemala,2016,47.11
+Guatemala,Guatemala,2017,NA
+Guyana,Guyana,2000,NA
+Guyana,Guyana,2001,NA
+Guyana,Guyana,2002,NA
+Guyana,Guyana,2003,NA
+Guyana,Guyana,2004,NA
+Guyana,Guyana,2005,NA
+Guyana,Guyana,2006,NA
+Guyana,Guyana,2007,NA
+Guyana,Guyana,2008,NA
+Guyana,Guyana,2009,75.41
+Guyana,Guyana,2010,NA
+Guyana,Guyana,2011,87.33
+Guyana,Guyana,2012,83.2
+Guyana,Guyana,2013,NA
+Guyana,Guyana,2014,NA
+Guyana,Guyana,2015,NA
+Guyana,Guyana,2016,NA
+Guyana,Guyana,2017,NA
+Haití,Haiti,2000,NA
+Haití,Haiti,2001,NA
+Haití,Haiti,2002,NA
+Haití,Haiti,2003,NA
+Haití,Haiti,2004,NA
+Haití,Haiti,2005,NA
+Haití,Haiti,2006,NA
+Haití,Haiti,2007,NA
+Haití,Haiti,2008,NA
+Haití,Haiti,2009,NA
+Haití,Haiti,2010,NA
+Haití,Haiti,2011,NA
+Haití,Haiti,2012,NA
+Haití,Haiti,2013,NA
+Haití,Haiti,2014,NA
+Haití,Haiti,2015,NA
+Haití,Haiti,2016,NA
+Haití,Haiti,2017,NA
+Honduras,Honduras,2000,NA
+Honduras,Honduras,2001,NA
+Honduras,Honduras,2002,NA
+Honduras,Honduras,2003,NA
+Honduras,Honduras,2004,NA
+Honduras,Honduras,2005,NA
+Honduras,Honduras,2006,NA
+Honduras,Honduras,2007,NA
+Honduras,Honduras,2008,NA
+Honduras,Honduras,2009,NA
+Honduras,Honduras,2010,NA
+Honduras,Honduras,2011,NA
+Honduras,Honduras,2012,NA
+Honduras,Honduras,2013,44.48
+Honduras,Honduras,2014,43.26
+Honduras,Honduras,2015,42.75
+Honduras,Honduras,2016,44.32
+Honduras,Honduras,2017,45.44
+Jamaica,Jamaica,2000,76.32
+Jamaica,Jamaica,2001,75.43
+Jamaica,Jamaica,2002,75.82
+Jamaica,Jamaica,2003,75.9
+Jamaica,Jamaica,2004,80.87
+Jamaica,Jamaica,2005,80.61
+Jamaica,Jamaica,2006,NA
+Jamaica,Jamaica,2007,NA
+Jamaica,Jamaica,2008,NA
+Jamaica,Jamaica,2009,NA
+Jamaica,Jamaica,2010,NA
+Jamaica,Jamaica,2011,76.79
+Jamaica,Jamaica,2012,NA
+Jamaica,Jamaica,2013,72.57
+Jamaica,Jamaica,2014,72.32
+Jamaica,Jamaica,2015,71.6
+Jamaica,Jamaica,2016,72.94
+Jamaica,Jamaica,2017,74.05
+México,Mexico,2000,55.1
+México,Mexico,2001,NA
+México,Mexico,2002,59.19
+México,Mexico,2003,61.72
+México,Mexico,2004,63.34
+México,Mexico,2005,64.72
+México,Mexico,2006,65.89
+México,Mexico,2007,67.14
+México,Mexico,2008,67.86
+México,Mexico,2009,67.82
+México,Mexico,2010,67.87
+México,Mexico,2011,67.85
+México,Mexico,2012,68.35
+México,Mexico,2013,71.46
+México,Mexico,2014,73.27
+México,Mexico,2015,75.61
+México,Mexico,2016,77.15
+México,Mexico,2017,NA
+Nicaragua,Nicaragua,2000,34.99
+Nicaragua,Nicaragua,2001,36.71
+Nicaragua,Nicaragua,2002,38.83
+Nicaragua,Nicaragua,2003,NA
+Nicaragua,Nicaragua,2004,41.84
+Nicaragua,Nicaragua,2005,44.33
+Nicaragua,Nicaragua,2006,46.23
+Nicaragua,Nicaragua,2007,NA
+Nicaragua,Nicaragua,2008,NA
+Nicaragua,Nicaragua,2009,NA
+Nicaragua,Nicaragua,2010,48.92
+Nicaragua,Nicaragua,2011,NA
+Nicaragua,Nicaragua,2012,NA
+Nicaragua,Nicaragua,2013,NA
+Nicaragua,Nicaragua,2014,NA
+Nicaragua,Nicaragua,2015,NA
+Nicaragua,Nicaragua,2016,NA
+Nicaragua,Nicaragua,2017,NA
+Panamá,Panama,2000,58.31
+Panamá,Panama,2001,60.39
+Panamá,Panama,2002,62.19
+Panamá,Panama,2003,NA
+Panamá,Panama,2004,61.63
+Panamá,Panama,2005,61.79
+Panamá,Panama,2006,NA
+Panamá,Panama,2007,NA
+Panamá,Panama,2008,63.31
+Panamá,Panama,2009,63.43
+Panamá,Panama,2010,66.12
+Panamá,Panama,2011,65.56
+Panamá,Panama,2012,NA
+Panamá,Panama,2013,70.36
+Panamá,Panama,2014,69
+Panamá,Panama,2015,69.7
+Panamá,Panama,2016,NA
+Panamá,Panama,2017,NA
+Paraguay,Paraguay,2000,NA
+Paraguay,Paraguay,2001,52.23
+Paraguay,Paraguay,2002,53.51
+Paraguay,Paraguay,2003,54.82
+Paraguay,Paraguay,2004,56.93
+Paraguay,Paraguay,2005,57.76
+Paraguay,Paraguay,2006,58.14
+Paraguay,Paraguay,2007,58.81
+Paraguay,Paraguay,2008,60.04
+Paraguay,Paraguay,2009,60.54
+Paraguay,Paraguay,2010,61.52
+Paraguay,Paraguay,2011,63.27
+Paraguay,Paraguay,2012,66.46
+Paraguay,Paraguay,2013,NA
+Paraguay,Paraguay,2014,NA
+Paraguay,Paraguay,2015,NA
+Paraguay,Paraguay,2016,64.91
+Paraguay,Paraguay,2017,NA
+Perú,Peru,2000,65.02
+Perú,Peru,2001,67.82
+Perú,Peru,2002,68.37
+Perú,Peru,2003,NA
+Perú,Peru,2004,68.3
+Perú,Peru,2005,69.87
+Perú,Peru,2006,72.11
+Perú,Peru,2007,75.53
+Perú,Peru,2008,77.07
+Perú,Peru,2009,79.92
+Perú,Peru,2010,79.75
+Perú,Peru,2011,80.03
+Perú,Peru,2012,75.53
+Perú,Peru,2013,79.46
+Perú,Peru,2014,78.38
+Perú,Peru,2015,77.68
+Perú,Peru,2016,79.6
+Perú,Peru,2017,80.54
+República Dominicana,Dominican Republic,2000,39.92
+República Dominicana,Dominican Republic,2001,NA
+República Dominicana,Dominican Republic,2002,50.05
+República Dominicana,Dominican Republic,2003,NA
+República Dominicana,Dominican Republic,2004,49.12
+República Dominicana,Dominican Republic,2005,52.25
+República Dominicana,Dominican Republic,2006,NA
+República Dominicana,Dominican Republic,2007,60.65
+República Dominicana,Dominican Republic,2008,59.14
+República Dominicana,Dominican Republic,2009,62.47
+República Dominicana,Dominican Republic,2010,61.98
+República Dominicana,Dominican Republic,2011,61.68
+República Dominicana,Dominican Republic,2012,62.49
+República Dominicana,Dominican Republic,2013,64.23
+República Dominicana,Dominican Republic,2014,65.46
+República Dominicana,Dominican Republic,2015,66
+República Dominicana,Dominican Republic,2016,66.55
+República Dominicana,Dominican Republic,2017,NA
+Surinam,Suriname,2000,NA
+Surinam,Suriname,2001,NA
+Surinam,Suriname,2002,NA
+Surinam,Suriname,2003,NA
+Surinam,Suriname,2004,NA
+Surinam,Suriname,2005,NA
+Surinam,Suriname,2006,NA
+Surinam,Suriname,2007,NA
+Surinam,Suriname,2008,NA
+Surinam,Suriname,2009,46.05
+Surinam,Suriname,2010,51.15
+Surinam,Suriname,2011,51.28
+Surinam,Suriname,2012,52.26
+Surinam,Suriname,2013,54.44
+Surinam,Suriname,2014,55.85
+Surinam,Suriname,2015,58.58
+Surinam,Suriname,2016,NA
+Surinam,Suriname,2017,NA
+Trinidad y Tabago,Trinidad & Tabago,2000,NA
+Trinidad y Tabago,Trinidad & Tabago,2001,NA
+Trinidad y Tabago,Trinidad & Tabago,2002,NA
+Trinidad y Tabago,Trinidad & Tabago,2003,NA
+Trinidad y Tabago,Trinidad & Tabago,2004,72.65
+Trinidad y Tabago,Trinidad & Tabago,2005,NA
+Trinidad y Tabago,Trinidad & Tabago,2006,NA
+Trinidad y Tabago,Trinidad & Tabago,2007,NA
+Trinidad y Tabago,Trinidad & Tabago,2008,NA
+Trinidad y Tabago,Trinidad & Tabago,2009,NA
+Trinidad y Tabago,Trinidad & Tabago,2010,NA
+Trinidad y Tabago,Trinidad & Tabago,2011,NA
+Trinidad y Tabago,Trinidad & Tabago,2012,NA
+Trinidad y Tabago,Trinidad & Tabago,2013,NA
+Trinidad y Tabago,Trinidad & Tabago,2014,NA
+Trinidad y Tabago,Trinidad & Tabago,2015,NA
+Trinidad y Tabago,Trinidad & Tabago,2016,NA
+Trinidad y Tabago,Trinidad & Tabago,2017,NA
+Uruguay,Uruguay,2000,NA
+Uruguay,Uruguay,2001,NA
+Uruguay,Uruguay,2002,NA
+Uruguay,Uruguay,2003,NA
+Uruguay,Uruguay,2004,NA
+Uruguay,Uruguay,2005,NA
+Uruguay,Uruguay,2006,NA
+Uruguay,Uruguay,2007,67.61
+Uruguay,Uruguay,2008,69.42
+Uruguay,Uruguay,2009,71.27
+Uruguay,Uruguay,2010,71.98
+Uruguay,Uruguay,2011,NA
+Uruguay,Uruguay,2012,NA
+Uruguay,Uruguay,2013,75.19
+Uruguay,Uruguay,2014,76.35
+Uruguay,Uruguay,2015,81.26
+Uruguay,Uruguay,2016,82.76
+Uruguay,Uruguay,2017,NA
+Venezuela,Venezuela,2000,50.49
+Venezuela,Venezuela,2001,53.66
+Venezuela,Venezuela,2002,56.07
+Venezuela,Venezuela,2003,57.65
+Venezuela,Venezuela,2004,59.97
+Venezuela,Venezuela,2005,61.76
+Venezuela,Venezuela,2006,65.16
+Venezuela,Venezuela,2007,67.36
+Venezuela,Venezuela,2008,68.45
+Venezuela,Venezuela,2009,70.1
+Venezuela,Venezuela,2010,70.35
+Venezuela,Venezuela,2011,71.46
+Venezuela,Venezuela,2012,73.34
+Venezuela,Venezuela,2013,73.84
+Venezuela,Venezuela,2014,74.59
+Venezuela,Venezuela,2015,73.24
+Venezuela,Venezuela,2016,71.4
+Venezuela,Venezuela,2017,69.82
